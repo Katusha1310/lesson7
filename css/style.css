@@ -1,0 +1,182 @@
+
+@font-face {
+    font-family: Shelley-AndanteScript;
+    src: url("../font/Shelley-AndanteScript.woff") format("woff");
+}
+
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+li {
+    list-style: none;
+}
+a {
+    color: inherit;
+}
+a,
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+img {
+    vertical-align: top;
+}
+
+body,
+html {
+    height: 100%;
+    line-height: 1;
+}
+.wrapper{
+    box-sizing: border-box;
+}
+.header{
+    display: block;
+    font-weight: 300;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+.list{
+    color: rgb(51, 39, 22);
+    font-size: 20px;
+    text-align:center;
+    margin-bottom: 40px;
+}
+.list-2{
+    color: blueviolet;
+    text-decoration: underline solid 2px;
+    margin: 40px;
+}
+.list-3{
+    margin-bottom: 30px;
+    opacity: 0.2;
+}
+.header h1{
+    color: cornflowerblue;
+    text-align: center;
+    font-size: 30px;
+    font-family: Lobster;
+    text-shadow: -5px 5px 5px rgb(139, 33, 116);
+    margin-bottom: 20px;
+}
+.main img{
+    display: block;
+ width:500px;
+margin: 0 auto;
+margin-bottom: 70px;
+}
+.text{
+    padding-left: 40px;
+    border: solid 4px red;
+    border-radius: 30px;
+    background-color: blanchedalmond;
+    font-family: Caveat;
+    margin-bottom: 60px;
+ }
+.text-1{
+    font-family: Caveat;
+    padding:20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+.main .text-3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    display: inline-block;
+    border-bottom: 2px solid;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 40px;
+    margin-left: 50px;
+}
+.aa{
+    display: inline-block;
+    background-color:blanchedalmond;
+    border: solid 2px black;
+}
+.aa-1{
+    display: block;
+    border: solid green 2px;
+    margin: 40px;
+}
+.aa-2{
+    display: none;
+}
+.main .red{
+    display: block;
+    font-size: 20px;
+    color: red;
+    font-family:Lobster ;
+    font-weight: 400;
+    margin-bottom: 40px;
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    border: solid blue;
+    overflow:hidden;
+    margin: 0 auto;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+.text-4{
+    font-family: Shelley-AndanteScript;
+    font-size: 40px;
+    color: saddlebrown;
+}
+.main .blue{
+   width: 400px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    font-size:30px;
+    color: royalblue;
+    text-transform: uppercase;
+}
+.main .text-5{
+    font-size: 24px;
+    text-shadow: 0 10px 0 seagreen;
+    padding-left: 10px;
+}
+.text-6{
+    text-decoration: underline blue 4px;
+    font-family:Caveat;
+    padding-left: 30px;
+}
+.text-7{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 27px;
+    text-align: right;
+    border: turquoise solid 4px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.footer{
+    margin: 40px;
+    text-align: center;
+    font-size: 40px;
+}
+.ff {
+  display: inline-block;  
+  font-size: 30px;
+  border-bottom: solid 2px red;
+  margin-left: 40px;
+}
