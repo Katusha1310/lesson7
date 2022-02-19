@@ -83,12 +83,7 @@ text-align: center;
 li{
     display: inline-block;   
 }
-.item li:first-child(1){
-    width: 358px;
-    height:52px;
-  padding-left: 32px;
 
-}
 .item li::before{
     content: "";
     background: url(../img/check.svg)0 17px/16px no-repeat;
