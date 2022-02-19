@@ -77,7 +77,6 @@ h1{
     padding: 15px 30px 15px 30px;
     border-radius: 30px;
     box-shadow: 0 5px 0 black;
-    font-family: 20px;
     text-transform: uppercase;
     background-color: blue;
 }
@@ -206,7 +205,7 @@ font-size: 30px;
             }
            .item-list li{
                 display:block;
-                margin-left:20px 0px 30px 40px;
+                margin-left:20px;
                 
 
             }
@@ -372,7 +371,7 @@ h2{
     display: inline-block;
     box-shadow: -5px -5px 10px yellowgreen;
     font-size: 24px;
-    width: 500;
+    width: 500px;
     height: 500px;
     overflow: scroll;
     border-radius: 50%;
@@ -399,7 +398,7 @@ color: violet;
     background-color: rgb(207, 172, 17);
     color: springgreen;
     padding: 5px 5px;
-    box-shadow: violet -5x -15px;
+    box-shadow:  -5x -15px violet;
 }
 .text-4{
     display: inline-block;
